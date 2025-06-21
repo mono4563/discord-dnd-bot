@@ -1,5 +1,4 @@
 discord
 datetime
-os
 flask
 threading
